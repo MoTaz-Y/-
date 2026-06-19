@@ -25,8 +25,7 @@
     "react-hook-form": "^7.74.0",
     "tailwind-merge": "^2.5.2",
     "wouter": "^3.3.5",
-    "zod": "^3.23.8",
-    "vite": "^7.0.0"
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
